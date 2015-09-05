@@ -6,7 +6,7 @@ A simple sudoku generator written in Go
 go-sudoku-grid-generator is a simple port based on the Java-based
 [SodokuGridGenerator](https://github.com/valcol/SodokuGridGenerator)
 by [valcol](https://github.com/valcol).
-which appears to be similar but a simpler versions of the C-based
+which appears to be similar but a simpler version of the C-based
 [sudoku-generator](https://github.com/xkaycee/sudoku-generator)
 by [xkaycee](https://github.com/xkaycee)
 
@@ -24,7 +24,7 @@ License:
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Doug Sparling
+Copyright (c) 2014-2015 Doug Sparling
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
